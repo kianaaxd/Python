@@ -7,5 +7,5 @@ for each_grades in grades:
 
 
 print(grades)
-print('The sum is', sum)
-print('The average is', average)
+print('Sum =', sum)
+print('Average =', average)
