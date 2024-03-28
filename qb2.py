@@ -719,6 +719,9 @@ question_categoryA = [
         "choices": ["Bhangra", "Kecak", "Bharatanatyam", "Kathakali"],
         "answer": "Kecak"
     }, 
+]
+
+question_categoryB = [
     {
         "difficulty": "Easy",
         "question": "Which continent is known as the 'Land of the Rising Sun'?",
