@@ -97,9 +97,9 @@ question_categoryA = [
     },
     {
         "difficulty": "Easy",
-        "question": "Who is the main character in William Shakespeare's play 'Hamlet'?",
-        "choices": ["Hamlet", "Macbeth", "Othello", "Romeo"],
-        "answer": "Hamlet"
+        "question": "Marilyn Monroe",
+        "choices": ["Jackson Pollock", "Andy Warhol", "Pablo Picasso", "Salvador Dalí"],
+        "answer": "Andy Warhol" 
     },
     {
         "difficulty": "Easy",
@@ -181,9 +181,9 @@ question_categoryA = [
     },
     {
         "difficulty": "Easy",
-        "question": "Who painted the famous artwork 'The Starry Night'?",
-        "choices": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Claude Monet"],
-        "answer": "Vincent van Gogh"
+        "question": "Which American poet wrote 'The Road Not Taken' and 'Stopping by Woods on a Snowy Evening'?",
+        "choices": ["Emily Dickinson", "Langston Hughes", "Robert Frost", "Walt Whitman"],
+        "answer": "Robert Frost" 
     },
     {
         "difficulty": "Easy",
@@ -343,9 +343,9 @@ question_categoryA = [
     },
     {
         "difficulty": "Medium",
-        "question": "What is the traditional greeting in Hawaii?",
-        "choices": ["Namaste", "Aloha", "Shalom", "Salaam"],
-        "answer": "Aloha"
+        "question": "Which ancient Greek philosopher is known for his teachings on ethics and morality, and was the student of Plato?",
+        "choices": ["Socrates", "Aristotle", "Pythagoras", "Sophocles"],
+        "answer": " Socrates" 
     },
     {
         "difficulty": "Medium",
@@ -445,9 +445,9 @@ question_categoryA = [
     },
     {
         "difficulty": "Medium",
-        "question": "Who wrote the famous play 'Romeo and Juliet'?",
-        "choices": ["William Shakespeare", "George Bernard Shaw", "Oscar Wilde", "Anton Chekhov"],
-        "answer": "William Shakespeare"
+        "question": "Who directed the famous film 'The Godfather'?",
+        "choices": ["Steven Spielberg", "Martin Scorsese", "Francis Ford Coppola", "Alfred Hitchcock"],
+        "answer": "Francis Ford Coppola" 
     },
     {
         "difficulty": "Medium",
@@ -475,9 +475,9 @@ question_categoryA = [
     },
     {
         "difficulty": "Medium",
-        "question": "Who wrote the famous play 'Hamlet'?",
-        "choices": ["William Shakespeare", "George Bernard Shaw", "Oscar Wilde", "Anton Chekhov"],
-        "answer": "William Shakespeare"
+        "question": "Who wrote the play 'The Crucible' which is based on the Salem witch trials and serves as an allegory for McCarthyism?",
+        "choices": ["Tennessee Williams", "Arthur Miller", "Eugene O'Neill", "Thornton Wilder"],
+        "answer": "Arthur Miller" 
     },
     {
         "difficulty": "Hard",
@@ -487,10 +487,10 @@ question_categoryA = [
     }, 
     {
         "difficulty": "Hard",
-        "question": "Which artist is known for his iconic painting 'The Starry Night'?",
-        "choices": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Salvador Dali"],
-        "answer": "Vincent van Gogh"
-    }, 
+        "question": "Who is the author of the famous novel 'The Picture of Dorian Gray' which explores themes of vanity, morality, and the pursuit of beauty?",
+        "choices": ["Oscar Wilde", "Charles Dickens", "H.G. Wells", "Bram Stoker"],
+        "answer": "Oscar Wilde" 
+    },  
     {
         "difficulty": "Hard",
         "question": "In which African country is the city of Timbuktu, known historically as a center of learning and trade?",
@@ -535,9 +535,9 @@ question_categoryA = [
     }, 
     {
         "difficulty": "Hard",
-        "question": "Who composed the famous ballet 'Swan Lake'?",
-        "choices": ["Ludwig van Beethoven", "Pyotr Ilyich Tchaikovsky", "Johann Strauss II", "Igor Stravinsky"],
-        "answer": "Pyotr Ilyich Tchaikovsky"
+        "question": "Which ballet, composed by Pyotr Ilyich Tchaikovsky, features characters like Odette, Odile, and Prince Siegfried?",
+        "choices": ["The Nutcracker", "Swan Lake", "Sleeping Beauty", "Giselle"],
+        "answer": "Swan Lake" 
     }, 
     {
         "difficulty": "Hard",
@@ -655,9 +655,9 @@ question_categoryA = [
     }, 
     {
         "difficulty": "Hard",
-        "question": "Who painted the famous artwork 'The Birth of Venus'?",
-        "choices": ["Michelangelo", "Leonardo da Vinci", "Sandro Botticelli", "Raphael"],
-        "answer": "Sandro Botticelli"
+        "question": "Which musical genre originated in Jamaica and features a prominent beat and bass line?",
+        "choices": ["Reggae", "Salsa", "Flamenco", "Jazz"],
+        "answer": "Reggae" 
     }, 
     {
         "difficulty": "Hard",
@@ -703,9 +703,9 @@ question_categoryA = [
     }, 
     {
         "difficulty": "Hard",
-        "question": "What is the traditional greeting in Thailand?",
-        "choices": ["Namaste", "Sawasdee", "Konnichiwa", "Annyeonghaseyo"],
-        "answer": "Sawasdee"
+        "question": "Which famous novel by Jane Austen explores themes of love, class, and social status in early 19th-century England?",
+        "choices": ["Wuthering Heights", "Pride and Prejudice", "Jane Eyre", "Sense and Sensibility"],
+        "answer": "Pride and Prejudice" 
     }, 
     {
         "difficulty": "Hard",
@@ -850,9 +850,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Easy",
-        "question": "Which country is known as the 'Land of a Thousand Lakes'?",
-        "choices": ["Canada", "Sweden", "Finland", "Norway"],
-        "answer": "Finland"
+        "question": "Which of the following is the highest peak in the Philippines?",
+        "choices": ["Mount Mayon", "Mount Pinatubo", "Mount Apo", "Mount Taal"],
+        "answer": "Mount Apo" 
     },
     {
         "difficulty": "Easy",
@@ -904,10 +904,10 @@ question_categoryB = [
     },
     {
         "difficulty": "Easy",
-        "question": "Which country is known as the 'Land of the Rising Sun'?",
-        "choices": ["China", "Japan", "India", "South Korea"],
-        "answer": "Japan"
-    },
+        "question": "Which of the following bodies of water surrounds the majority of the Philippine archipelago?",
+        "choices": ["South China Sea", "Pacific Ocean", "Celebes Sea", "Philippine Sea"],
+        "answer": "South China Sea" 
+    }, 
     {
         "difficulty": "Easy",
         "question": "Which river runs through London?",
@@ -940,9 +940,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Easy",
-        "question": "What is the capital city of Argentina?",
-        "choices": ["Buenos Aires", "Santiago", "Lima", "Montevideo"],
-        "answer": "Buenos Aires"
+        "question": "What is the capital city of The Philippines?",
+        "choices": ["Buenos Aires", "Santiago", "Lima", "Manila"],
+        "answer": "Manila" 
     },
     {
         "difficulty": "Easy",
@@ -952,9 +952,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Easy",
-        "question": "Which is the largest island in the Mediterranean Sea?",
-        "choices": ["Sicily", "Sardinia", "Crete", "Cyprus"],
-        "answer": "Sicily"
+        "question": "Which of the following is the longest river in the Philippines?",
+        "choices": ["Pasig River", "Cagayan River", "Agusan River", "Pampanga River"],
+        "answer": "Cagayan River"
     },
     {
         "difficulty": "Easy",
@@ -964,15 +964,15 @@ question_categoryB = [
     },
     {
         "difficulty": "Medium",
-        "question": "What is the capital city of Canada?",
-        "choices": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
-        "answer": "Ottawa"
+        "question": "What is the name of the largest lake in the Philippines?",
+        "choices": ["Laguna de Bay", "Lake Lanao", "Lake Taal", "Lake Mainit"],
+        "answer": "Laguna de Bay" 
     },
     {
         "difficulty": "Medium",
-        "question": "Which country is known as the 'Land of the Rising Sun'?",
-        "choices": ["China", "Japan", "India", "Thailand"],
-        "answer": "Japan"
+        "question": "Which of the following is the largest island in Japan?",
+        "choices": ["Shikoku", "Kyushu", "Honshu", "Hokkaido"],
+        "answer": "Honshu" 
     },
     {
         "difficulty": "Medium",
@@ -994,9 +994,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Medium",
-        "question": "What is the capital city of South Africa?",
-        "choices": ["Johannesburg", "Cape Town", "Pretoria", "Durban"],
-        "answer": "Pretoria"
+        "question": "Which of the following is the highest mountain in Japan?",
+        "choices": ["Mount Fuji", "Mount Aso", "Mount Tateyama", "Mount Ontake"],
+        "answer": "Mount Fuji" 
     },
     {
         "difficulty": "Medium",
@@ -1042,9 +1042,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Medium",
-        "question": "What is the capital city of Argentina?",
-        "choices": ["Buenos Aires", "Rio de Janeiro", "Santiago", "Bogotá"],
-        "answer": "Buenos Aires"
+        "question": "Which of the following is the longest river in Japan?",
+        "choices": ["Shinano River", "Tone River", "Ishikari River", "Kiso River"],
+        "answer": "Shinano River" 
     },
     {
         "difficulty": "Medium",
@@ -1072,9 +1072,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Medium",
-        "question": "What is the capital city of Spain?",
-        "choices": ["Barcelona", "Madrid", "Seville", "Valencia"],
-        "answer": "Madrid"
+        "question": "Which strait separates Hokkaido from Russia?",
+        "choices": ["Tsugaru Strait", "La Pérouse Strait", "Soya Strait", "Tatar Strait"],
+        "answer": "La Pérouse Strait" 
     },
     {
         "difficulty": "Medium",
@@ -1090,9 +1090,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Medium",
-        "question": "What is the capital city of China?",
-        "choices": ["Shanghai", "Beijing", "Hong Kong", "Guangzhou"],
-        "answer": "Beijing"
+        "question": "Which of the following is the southernmost prefecture of Japan?",
+        "choices": ["Okinawa", "Kagoshima", "Kumamoto", "Miyazaki"],
+        "answer": "Okinawa" 
     },
     {
         "difficulty": "Medium",
@@ -1108,9 +1108,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Medium",
-        "question": "Which river is the longest in the world?",
-        "choices": ["Amazon", "Nile", "Yangtze", "Mississippi"],
-        "answer": "Nile"
+        "question": "Which of the following cities is not located on the island of Honshu?",
+        "choices": ["Tokyo", "Osaka", "Fukuoka", "Sapporo"],
+        "answer": "Sapporo" 
     },
     {
         "difficulty": "Medium",
@@ -1120,9 +1120,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Medium",
-        "question": "What is the capital city of Australia?",
-        "choices": ["Melbourne", "Sydney", "Canberra", "Brisbane"],
-        "answer": "Canberra"
+        "question": "Which of the following is the highest peak in Japan's Northern Alps?",
+        "choices": ["Mount Tateyama", "Mount Hotaka", "Mount Yari", "Mount Shirouma"],
+        "answer": "Mount Yari" 
     },
     {
         "difficulty": "Medium",
@@ -1174,9 +1174,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Medium",
-        "question": "Which river is often considered the cradle of civilization?",
-        "choices": ["Tigris", "Euphrates", "Indus", "Nile"],
-        "answer": "Euphrates"
+        "question": "Which strait separates Shikoku from Honshu?",
+        "choices": ["Kanmon Strait", "Naruto Strait", "Seto Inland Sea", "Akashi Strait"],
+        "answer": "Naruto Strait" 
     },
     {
         "difficulty": "Medium",
@@ -1186,9 +1186,9 @@ question_categoryB = [
     },
     {
         "difficulty": "Medium",
-        "question": "What is the capital city of South Korea?",
-        "choices": ["Seoul", "Busan", "Incheon", "Daegu"],
-        "answer": "Seoul"
+        "question": "Which mountain is considered the highest peak in South Korea?",
+        "choices": ["Mount Jiri", "Mount Halla", "Mount Seorak", "Mount Baekdu"],
+        "answer": "Mount Halla" 
     },
     {
         "difficulty": "Medium",
@@ -1420,15 +1420,27 @@ question_categoryB = [
     },
     {
         "difficulty": "Hard",
-        "question": "What is the capital city of Uzbekistan?",
-        "choices": ["Bishkek", "Tashkent", "Ashgabat", "Dushanbe"],
-        "answer": "Tashkent"
+        "question": "Which river forms a natural boundary between North Korea and China?",
+        "choices": ["Han River", "Yalu River", "Taedong River", "Nakdong River"],
+        "answer": "Yalu River" 
     },
     {
         "difficulty": "Hard",
         "question": "Which African country is the largest by land area?",
         "choices": ["Algeria", "Sudan", "Democratic Republic of the Congo", "Libya"],
         "answer": "Algeria"
+    },
+    {
+        "difficulty": "Hard",
+        "question": "Which of the following countries does not border the Mediterranean Sea?",
+        "choices": ["Italy", "Greece", "Turkey", "Austria"],
+        "answer": "Austria"
+    },
+    {
+        "difficulty": "Hard",
+        "question": "Which mountain range forms the border between Europe and Asia?",
+        "choices": ["The Alps", "The Rocky Mountains", "The Himalayas", "The Ural Mountains"],
+        "answer": "The Ural Mountains"
     },
 
 ]
